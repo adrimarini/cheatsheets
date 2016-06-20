@@ -12,3 +12,5 @@ git checkout = lets see a different branch
 git reset = takes you back to an older version you must specify
 
 git add --all =moves everything into staging
+
+hello again
